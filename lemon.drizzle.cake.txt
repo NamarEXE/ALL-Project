@@ -1,0 +1,8 @@
+item, weight, quantity
+butter, 300, 1
+sugar, 300, 1
+egg, 0, 4
+lemon, 0, 1
+self-raising flour, 200, 1
+strawberry, 300, 1
+milk, 50, 1

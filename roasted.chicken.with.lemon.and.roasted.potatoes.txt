@@ -1,0 +1,7 @@
+item, weight, quantity
+chicken, 1800, 1
+potatoes, 1500, 1
+lemon, 0, 2
+garlic cloves, 0, 6
+bacon, 600, 1
+oil, 50, 1
