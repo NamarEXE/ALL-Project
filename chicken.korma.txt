@@ -1,0 +1,9 @@
+item, weight, quantity
+chicken, 900, 1
+oil, 50, 1
+yogurt, 100, 1
+onion, 0, 2
+garlic cloves, 0, 4
+root ginger, 20, 1
+lemon, 0, 1
+red chillies, 0, 1

@@ -1,0 +1,8 @@
+item, weight, quantity
+bacon, 400, 1
+pasta, 400, 1
+cheese, 320, 1
+oil, 50, 1
+onion, 0, 1
+butter, 50, 1
+milk, 450, 1
