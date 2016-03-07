@@ -1,0 +1,13 @@
+item, weight, quantity
+carrot, 0, 1
+garlic cloves, 0, 3
+milk, 600, 1
+bacon, 200, 1
+mince, 1000, 1
+onion, 0, 1
+oil, 50, 1
+chopped tomatoes, 600, 1
+plain flour, 50, 1
+cheese, 40, 1
+mozzarella, 100, 1 
+lasagne sheets, 300, 1
