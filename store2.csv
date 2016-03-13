@@ -1,13 +1,42 @@
 items,weight,quantity,price
-butter,200,1,2.19
-sugar,200,1,4.56
-egg,0,8,4.16
-lemon,0,1,1.99
-self-raising flour,200,1,0.86
-chicken,900,1,2.85
-strawberry,300,1,2.23
-potato,500,1,1.62
-garlic clove,0,6,2.92
-bacon,200,1,2.82
-pasta,200,1,2.75
-cheese,40,1,3.62
+butter, 200, 1,1.56
+sugar, 200, 1,2.69
+egg, 0, 8,3.02
+lemon, 0, 1,4.85
+self-raising flour, 200, 1,1.68
+chicken, 900, 1,4.2
+strawberry, 300, 1,1.89
+potatoes, 500, 1,2.35
+garlic cloves, 0, 3,3.62
+bacon, 200, 1,4.16
+pasta, 200, 1,1.35
+cheese, 40, 1,2.8
+carrot, 100, 1,3.81
+mince, 500, 1,3.82
+onion, 0, 1,3.91
+milk, 500, 1,4.21
+jam, 150, 1,3.21
+icing sugar, 100, 1,4.93
+oil, 50, 1,2.19
+chopped tomatoes, 200, 1,2.36
+plain flour, 200, 1,3.0
+lasagne sheets, 300, 1,1.55
+sweetcorn, 100, 1,4.92
+peas, 100, 1,2.22
+tuna, 150, 1,4.96
+lamb mince, 500, 1,2.13
+beef stock, 400, 1,1.21
+red chillies, 0, 2,3.07
+kidney beans, 400, 1,2.83
+lime, 0, 1,2.75
+red pepper, 0, 1,4.37
+white flour, 200, 1,1.54
+mozzarella, 100, 1,3.21
+yeast, 50, 1,5.0
+water, 200, 1,4.26
+passata, 100, 1,1.12
+pepperoni, 200, 1,1.26
+yogurt, 100, 1,2.22
+root ginger, 20, 1,1.11
+honey, 25, 1,3.86
+rice, 200, 1,1.93
