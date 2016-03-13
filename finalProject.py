@@ -310,24 +310,6 @@ def optionsScreen():
         pygame.display.update()
 
 def initTownMap(recipe):
-    for i in range(1,12):
-        storeNumber = 'store%d.csv' % i
-        with open('items.csv','r') as csvinput:
-            with open(storeNumber, 'w') as csvoutput: # this section of code creates random prices for all items in the item database and creates a new file with these values for each store
-                writer = csv.writer(csvoutput)
-                reader = csv.reader(csvinput)
-
-                all = []
-                row = next(reader)
-                row.append('price')
-                all.append(row)
-
-                for row in reader:
-                    row.append((random.randint(100,500)) / 100)
-                    all.append(row)
-
-                writer.writerows(all)
-
     recipeIngredients = {}
 
     with open(recipe, 'r') as csvinput:  # this section of code pulls data from the recipe documents and converts to a dictionary
