@@ -344,8 +344,13 @@ def initTownMap(recipe):
         cost.append(shopPrices[min(shopPrices, key=shopPrices.get)])    
         whereToGetItem.update({ingredients: cheapestStore})
         
-        if cheapestStore not in shopsToVisit:
-            shopsToVisit.append(cheapestStore) # this list tells the program which stores it needs to visit, hence ignoring unneeded stores
+       pos = 0
+        while pos < len(shopsToVisit):
+            if shopsToVisit[pos] == cheapestStore :
+                break
+            else:
+                pos += 1
+        shopsToVisit.append(cheapestStore) # this list tells the program which stores it needs to visit, hence ignoring unneeded stores
 
     totalSpent = ("%.2f" % round(sum(cost), 2))
     main(shopsToVisit, whereToGetItem, recipe, ingredientsList, recipeIngredients, totalSpent)
