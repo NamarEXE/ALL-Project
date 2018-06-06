@@ -1,0 +1,10 @@
+item, weight, quantity
+onion, 0, 2
+oil, 50, 1
+garlic cloves, 2
+mince, 1000, 1
+chopped tomatoes, 800, 1
+kidney beans, 800, 1
+red chillies, 0, 2
+lime, 0, 1
+red pepper, 0, 1
